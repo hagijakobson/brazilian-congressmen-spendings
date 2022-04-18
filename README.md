@@ -1,1 +1,1 @@
-# brazilian-senators-and-congressmen-spendings
+# Brazilian congressmen spendings
